@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "portfolio-vltno.vercel.app",
+    template: "%s | portfolio-vltno.vercel.app",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Founding member and developer of dublintechcircuit.com. Also working on modrinth.com/mod/timeloop.",
   openGraph: {
-    title: "chronark.com",
+    title: "vltno.dev",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Founding member and developer of dublintechcircuit.com. Also working on modrinth.com/mod/timeloop.",
+    url: "https://portfolio-vltno.vercel.app",
+    siteName: "portfolio-vltno.vercel.app",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://portfolio-vltno.vercel.app/og.png",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "VLTNOTR",
     card: "summary_large_image",
   },
   icons: {
