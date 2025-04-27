@@ -6,8 +6,8 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "portfolio-vltno.vercel.app",
-    template: "%s | portfolio-vltno.vercel.app",
+    default: "vltno.dev",
+    template: "%s | vltno.dev",
   },
   description: "Founding member and developer of dublintechcircuit.com. Also working on modrinth.com/mod/timeloop.",
   openGraph: {
