@@ -43,8 +43,7 @@ export default function Home() {
           >
             dublintechcircuit.com
           </Link>
-          , Ireland's first ever student-led community of technology enthusiasts that fosters peer-to-peer learning through intra-school collaboration and inter-school competition, covering all things related to technology.
-          Also working on {" "}
+          . Also working on {" "}
           <Link
             target="_blank"
             href="https://modrinth.com/mod/timeloop"
