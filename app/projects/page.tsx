@@ -20,7 +20,7 @@ export default async function ProjectsPage() {
     return acc;
   }, {} as Record<string, number>);
 
-  const featured = allProjects.find((project) => project.slug === "portfolio-vltno.vercel.app")!;
+  const featured = allProjects.find((project) => project.slug === "portfolio-vltno")!;
   const top2 = allProjects.find((project) => project.slug === "dublintechcircuit")!;
   const sorted = allProjects
     .filter((p) => p.published)
